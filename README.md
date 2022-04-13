@@ -10,5 +10,6 @@
 
 ##  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-mirinezhad" />
-<img src="https://github-readme-stats.vercel.app/api?username=younes-mirinezhad" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-mirinezhad&theme=vue" />
+
+[//]: # (<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-mirinezhad&theme=vue" />)
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=younes-mirinezhad" />)
