@@ -4,7 +4,8 @@
 ## Scripts: 
 1. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/OpenCV">OpenCV</a>
 2. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN">CUDA + CudNN</a>
-    1. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/11.1.1">CUDA 11.1.1</a>
+    1. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/Uninstaller">Uninistaller</a>
+    2. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/11.1.1">CUDA 11.1.1</a>
 3. <a href="https://github.com/younes-mirinezhad/OpenCV_VideoPlayer">OpenCV_VideoPlayer (C++, Qt)</a>
 4. Loading ...
 
