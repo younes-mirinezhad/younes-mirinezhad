@@ -6,7 +6,8 @@
 2. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN">CUDA + CudNN</a>
     1. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/Uninstaller">Uninistaller</a>
     2. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/11.1.1">Build CUDA 11.1.1</a>
-    3. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/11.7.1">Build CUDA 11.7.1</a>
+    3. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/11.6.2">Build CUDA 11.6.2</a>
+    4. <a href="https://github.com/younes-mirinezhad/Scrips/tree/main/Cuda_CudNN/11.7.1">Build CUDA 11.7.1</a>
 3. <a href="https://github.com/younes-mirinezhad/OpenCV_VideoPlayer">OpenCV VideoPlayer (C++, QML, Qt)</a>
 4. <a href="https://github.com/younes-mirinezhad/PySide6_CleanArchitecture">PySide6 Clean Architecture (Python, QML, PySide6, Qt)</a>
 5. <a href="https://github.com/younes-mirinezhad/Gallery_Python">Gallery_Python (Python, QML, PySide6, Qt)</a>
