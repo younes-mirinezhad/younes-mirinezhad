@@ -13,6 +13,7 @@
 4. <a href="https://github.com/younes-mirinezhad/PySide6_CleanArchitecture">PySide6 Clean Architecture (Python, QML, PySide6, Qt)</a>
 5. <a href="https://github.com/younes-mirinezhad/Gallery_Python">Gallery_Python (Python, QML, PySide6, Qt)</a>
 6. <a href="https://github.com/younes-mirinezhad/YOLOv8">YOLOv8 TensorRT detection sample (C++, Qt)</a>
+7. <a href="https://github.com/younes-mirinezhad/insightface/tree/master/recognition/arcface_torch">Train and fine-tune insightface for face recognition (Python, PyTorch)</a>
 
 ##  
 <img src="https://github-readme-stats.vercel.app/api?username=younes-mirinezhad&show_icons=true&theme=radical" />.....<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-mirinezhad" />
